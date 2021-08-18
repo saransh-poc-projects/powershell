@@ -1,0 +1,10 @@
+{
+    "parameters": {
+      "storageAccountSkuName":{
+          "value": "S3"
+      },
+      "storageAccountName":{
+        "value": "ablbstorage"
+      }
+    }
+  }
