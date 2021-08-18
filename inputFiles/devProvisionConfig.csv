@@ -1,0 +1,8 @@
+ComponentType,OverrideParameterFile
+DataFactoryv2,
+StorageAccount,
+VirtualMachine,
+AzureDataLakeStoreV2,
+SqlServer,
+AzureDatabricks,
+AzureAnalysisServices,
